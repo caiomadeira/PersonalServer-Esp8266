@@ -1,0 +1,94 @@
+> Swift:
+  - Storyboard & XIB
+ - ViewCode
+ - Ciclo TDD
+ - Swift Package/Pods
+ - Objetive C
+> Design Patterns:
+> Design Patterns:
+ - Clean (w/ VIP)
+ - MVVM
+ - MVC
+ - VIPER
+ - Facede
+ - Singleton
+  - Concrete and Abstract
+Factorys
+> Frameworks:
+  - SwiftUI
+  - CoreLocation
+  - WeatherKit
+  - UIKit
+    - SceneKit
+  - SpriteKit
+Sobre
+  - AVFoundation
+  - CoreData
+> Gerais:
+- Ciclo de vida na Apple Store
+- Apple Design GuideLine
+- Testes unitários/ A-B
+de integração e de UI.
+
+> Web:
+  - Django 3
+  - Django API-REST
+  - Flask
+    - API REST/CRUD
+> GUI:
+    - Kivy
+  - Tkinter
+  - Pillow
+> Data Science & ML:
+  - OpenCV
+  - PyTorch
+  - Matplot
+    - Sklearn
+  - Pandas e Numpy
+
+Outras tecnologias
+
+- Git/GitHub
+- SQL & Postgree
+- Docker
+- Apache
+- Unity2D e 3D
+- Adobe Creative Cloud
+- Blender
+- Blender
+- Jenkins
+- Firebase
+- iCloudKit
+
+> Metodologias:
+   - Ágil
+    - Scrum
+    - Kanban
+      - OKRs
+ - CBL
+> UI/UX:
+> UI/UX:
+   - Figma
+   - Zeplin
+   - Adobe Creative Cloud
+ - Habilidades artísticas
+> Diversos:
+   - SOLID & POO
+   - TDD - Mocks, Stubs, Spies
+   - TDD - Mocks, Stubs, Spies
+   - Diagramação UML
+ -  Algoritmos e modelos
+lógicos e matemáticos
+
+Outras linguagens
+
+- C/C++
+- JAVA
+- Flutter
+- Lua/Love 2D
+- C# & .NET
+- Ruby (puro)
+- Javascript (puro)
+- Javascript (puro)
+- CSS, & HTML
+- Stratch

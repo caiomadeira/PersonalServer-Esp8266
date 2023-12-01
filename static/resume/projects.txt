@@ -1,0 +1,22 @@
+Projetos
+
+Beacons - Vassouras
+Aplicativo iOS desenvolvido
+para a universidade de Vassouras
+2022
+
+Rotas da Gávea (iOS)
+Aplicativo desenvolvido durante a pesquisa
+com o foco em Beacons.
+2023
+
+Firejam - Projeto de jogo
+Jogo independente iniciado em
+uma game jam atualmente desenvolvido
+por um time da PUC-Rio.
+2023 - Atualmente
+
+The Philosopher Bot
+Uma aplicação para o Twitter.
+2020 - 2021
+github.com/caiomadeira/The-Philosopher-BOT

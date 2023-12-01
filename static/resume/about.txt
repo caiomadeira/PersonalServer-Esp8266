@@ -1,0 +1,18 @@
+    Eu amo computação. Provavelmente, não há forma
+mais clichê de autoapresentação, mas também, não há
+trabalho sem amor pela coisa e é com esse pensamento
+que entrei na área mobile - mais específicamente iOS. Além
+do fato de amar a linguagem swift - por sua ótima tipagem
+e segurança  -, não há como negar que trabalhar com um
+dispositivo tão poderoso e com uma infinidade de possibili
+dades é, para dizer o mínimo, animador.
+
+    Entretanto, não me atenho apenas a área mobile. Tenho um
+imenso fascínio por IoT (Internet das coisas), assim como
+Machine Learning e Data Science. Python e Swift são minhas
+principais linguagens. Ademais, não deixo isso impedir-me de
+aventurar em outras tecnologias. Desde desenvolvimento de
+jogos á segurança da informação. Estou sempre
+jogos á segurança da informação. Estou sempre
+buscando unir criatividade e inovação tecnológica. Acho que
+é um requisito mínimo pros dias atuais.
