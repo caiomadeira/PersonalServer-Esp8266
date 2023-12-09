@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Marcela te amo</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+    <style>
+    body {
+      font-family: "Sofia", sans-serif;
+      background-color: black;
+    }
+    h1 {
+        color: purple;
+    }
+    .content {
+      max-width: 500px;
+      margin: auto;
+    }
+    </style>
+</head>
+<body>
+<div class="content">
+    <h1>
+        <img src="{{url_for('static', filename='bat.gif')}}" alt="DOG" style="width:100px;height:100px;">
+        MARCELA TE AMO
+        <img src="{{url_for('static', filename='bat.gif')}}" alt="DOG" style="width:100px;height:100px;">
+    </h1>
+    <img src="https://img1.picmix.com/output/stamp/normal/9/3/9/7/1807939_f6754.gif" alt="DOG" style="width:500px;height:500px;">
+    <audio controls autoplay>
+      <source src="{{url_for('static', filename='romance.mp3')}}" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+</div>
+</body>
+<footer>
+    <img src="{{url_for('static', filename='dogdance2.gif')}}" alt="DOG2" style="width:100px;height:500px;">
+</footer>
+</html>

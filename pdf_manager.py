@@ -37,10 +37,7 @@ class PDF(FPDF):
         with open(filename, 'rb') as fh:
             txt = fh.read().decode('utf-8')
         self.set_font('times', '', 12)
-        if ch_title == "SOBRE":
-            self.multi_cell(0, 5, txt, border=True)
-        elif ch_title == "CONHECIMENTOS":
-            self.multi_cell(0, 5, txt, border=True)
+        self.multi_cell(0, 5, txt, border=True)
         self.ln()
 
 def get_all_content(filename):
@@ -73,10 +70,12 @@ def create_pdf(save_path: str):
 
     new_pdf.create_section('static/resume/about.txt', 1, "SOBRE")
     new_pdf.create_section('static/resume/knowledges.txt', 2, "CONHECIMENTOS")
+    new_pdf.create_section('static/resume/education.txt', 3, "FORMAÇÃO")
+    new_pdf.create_section('static/resume/experience.txt', 4, "EXPERIENCIA")
+    new_pdf.create_section('static/resume/projects.txt', 5, "PROJETOS")
 
-    #create_section(new_pdf, resume_topics[0], get_section_content(pdf_data, resume_topics[0], resume_topics[1]))
+    # create_section(new_pdf, resume_topics[0], get_section_content(pdf_data, resume_topics[0], resume_topics[1]))
     new_pdf.output(f'{save_path}/resume_{datetime.datetime.now().date()}.pdf')
-
 
 
 # get_section_content(pdf_data)

@@ -13,7 +13,7 @@ claro_trash_chars = ["<https://www.claro.com.br/static/email/202107/07151401/ima
                      "<https://www.claro.com.br/static/email/202107/07151401/images/box_parte6.png>",
                      r"\t", "<", ">", "<>", r" \t ", " "]
 
-claro_MANUAL_VALUES = ["77,99", "107.24", "27,64", "105,63", "105,63", "111,96", "112,13", "112,09", "109,75", "112,49", "114,93", "109,75",]
+claro_MANUAL_VALUES = [77.99, 107.24, 27.64, 105.63, 105.63, 111.96, 112.13, 112.09, 109.75, 112.49, 114.93, 109.75]
 
 count = 0
 outlook = client.Dispatch('Outlook.Application').GetNameSpace('MAPI')
@@ -72,3 +72,4 @@ def get_bills_from_emails(criteria, bills):
         bills = claro_bills
     print("claro bills: ", claro_bills)
     print("claro bills count: ", len(bills))
+    return bills

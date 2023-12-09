@@ -2,8 +2,8 @@ Experiências
 
 BRQ Solutions - ITI (Itaú)
 Atuei como desenvolvedor iOS no time
-de Gestão Financeira e na tribo de “Formas de
-pagamento”, - mais especificamente na tribo
+de Gestão Financeira e na tribo de Formas de
+pagamento, - mais especificamente na tribo
 de Cartões. Também atuei pontualmente
 na equipe de Pix. Além de desenvolver features,
 lidava indiretamente com testes, devOPS, etc.

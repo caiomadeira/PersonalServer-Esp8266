@@ -1,18 +1,21 @@
-    Eu amo computação. Provavelmente, não há forma
-mais clichê de autoapresentação, mas também, não há
-trabalho sem amor pela coisa e é com esse pensamento
-que entrei na área mobile - mais específicamente iOS. Além
-do fato de amar a linguagem swift - por sua ótima tipagem
-e segurança  -, não há como negar que trabalhar com um
-dispositivo tão poderoso e com uma infinidade de possibili
-dades é, para dizer o mínimo, animador.
-
-    Entretanto, não me atenho apenas a área mobile. Tenho um
-imenso fascínio por IoT (Internet das coisas), assim como
-Machine Learning e Data Science. Python e Swift são minhas
-principais linguagens. Ademais, não deixo isso impedir-me de
-aventurar em outras tecnologias. Desde desenvolvimento de
-jogos á segurança da informação. Estou sempre
-jogos á segurança da informação. Estou sempre
-buscando unir criatividade e inovação tecnológica. Acho que
-é um requisito mínimo pros dias atuais.
+    Sou estudante da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)[1]
+em Ciência da Computação com domínio adicional em neurociência. Minha trajetória
+com a computação vem desde pequeno quando aos 10 anos quando criava jogos caseiros
+na engine GameMaker. No fim do fundamental, comecei o estudo em lógica de programação
+utilizando pseudocódigo e, mais tarde, entrei em contato com linguagens de programação
+de baixo e alto nível (Python e C), assim como microeletrônica.
+    Aos 18 anos, trabalhei com um négocio familiar de produtos de limpeza e varejo
+automatizando processos rotineiros como preenchimento de planilhas e dando suporte na
+infraestrtura de servidores da empresa. Posteriormente, entrei no mercado Mobile, mais
+especificamente, no desenvolvimento de aplicativos iOS, utilizando a linguagem Swift, na
+qual, possuo um vasto conhecimento. Atuando como estagiário em desenvolvimento iOS e, também,
+posteriormente pleno em diversos times do banco Itaú. Ademais, dei aulas de reforço para alunos
+da IBMR, do curso de economia, em 2021. Na época, o foco era introduzi-los na programação estruturada
+utilizando Python, com o avançar do curso, auxiliei nos estudos nos frameworks Numpy, Pandas
+e Scikit-Learn.
+    Em 2022, virei aluno bolsista da universidade e entrei para o Laboratório de Engenharia de
+Software (LES) da PUC-Rio, na qual atuei no projeto Infracidades: Um projeto em parceria com
+entidades governamentais do estado do Rio de Janeiro - Instituto Estadual de Engenharia e
+Arquitetura (IEEA) e Secretaria de Infraestrutura e Obras (SEINFRA). Nele atuei desenvolvendo
+soluções tecnológicas parao setor de turismo com foco em BIM (Building Information Modeling).
+Os frutos das experiencias são apresentados ao longo desse currículo.

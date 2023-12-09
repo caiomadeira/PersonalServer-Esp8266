@@ -14,7 +14,7 @@ Ensino Superior
 Infracidades - Pesquisa (PUC-Rio)
 2022.1 - Atualmente
 
-* Principais Complentares
+> Principais Complentares
 
 iOS & Swift - The Complete iOS App
 Development Bootcamp
