@@ -15,6 +15,13 @@ def home():
     return render_template("index.html",
                            username=username, bills=light_bills_year, clarobills=clarobills)
 
+def find_max(nums):
+    max_num = float("-inf") # smaller than all other numbers
+    for num in nums:
+        if num > max_num:
+            max_num += 1
+    return max_num
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', debug=True)
+    #app.run(host='0.0.0.0', debug=True)
+    print(find_max([2, 6, 674, 5645, 75]))

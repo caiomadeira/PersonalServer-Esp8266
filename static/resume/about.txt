@@ -19,3 +19,16 @@ entidades governamentais do estado do Rio de Janeiro - Instituto Estadual de Eng
 Arquitetura (IEEA) e Secretaria de Infraestrutura e Obras (SEINFRA). Nele atuei desenvolvendo
 soluções tecnológicas parao setor de turismo com foco em BIM (Building Information Modeling).
 Os frutos das experiencias são apresentados ao longo desse currículo.
+
+
+    Sou estudante da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)[1]
+em Ciência da Computação com domínio adicional em neurociência. Minha trajetória
+com a computação vem desde pequeno quando aos 10 anos quando criava jogos caseiros
+na engine GameMaker. No fim do fundamental, comecei o estudo em lógica de programação
+utilizando pseudocódigo e, mais tarde, entrei em contato com linguagens de programação
+de baixo e alto nível (Python e C), assim como microeletrônica.
+    Atuo no ramo Mobile, em iOS, há três anos. Minha experiência com computação advém desde antes
+do ingresso a graduação, na qual, refina ainda mais meu conhecimento, principalmente, científico.
+Tenho interesse não só no setor mobile, como, também, em back-end, análise de dados e MLOps.
+    Nesse currículo, resumo um pouco das minhas principais experiências em trabalho acadêmico e
+ corporativo, além de listar alguns projetos dos quais fiz e participei e publicarei.
